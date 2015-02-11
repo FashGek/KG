@@ -1,2 +1,2 @@
 # KG
- ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+ ![image](https://github.com/FashGek/KG/blob/master/screenshots/kg.jpg.PNG)
